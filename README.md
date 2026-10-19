@@ -1,5 +1,7 @@
 # Seizure Detection App
 
+![Sz dashboard](sz.png)
+
 Next.js dashboard for the [seizure-detection-server](https://github.com/CURE5/seizure-detection-server):
 live camera view, heart-rate graph, seizure and medication logs, recorded video
 browser, and controls for the Raspberry Pi that runs it all.
